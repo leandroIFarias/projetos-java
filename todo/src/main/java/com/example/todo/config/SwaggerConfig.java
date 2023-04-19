@@ -26,9 +26,9 @@ public class SwaggerConfig {
 
     private ApiInfo metaInfo() {
         ApiInfo apiInfo = new ApiInfo("TODO List", "Task list API REST.", "1.0.0",
-                "Terms of Service", new Contact("Marcos Gonçalves",
-                "https://github.com/coppolaop",
-                "mag.junior@hotmail.com"),
+                "Terms of Service", new Contact("Leandro Inacio",
+                "https://github.com/leandroIFarias",
+                "leandro.inacio.farias@gmail.com"),
                 "Apache License Version 2.0",
                 "https://www.apache.org/licesen.html",
                 new ArrayList<VendorExtension>());
